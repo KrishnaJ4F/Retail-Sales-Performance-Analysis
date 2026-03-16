@@ -94,3 +94,5 @@ jupyter notebook "Retail Store (EDA).ipynb"
 
 **Krishna Kumar** — [LinkedIn](https://www.linkedin.com/in/krishna-kumar-41b84633b/) | [GitHub](https://github.com/KrishnaJ4F)
 ```
+
+---
